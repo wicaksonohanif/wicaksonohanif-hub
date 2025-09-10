@@ -302,4 +302,10 @@ footer {
         font-size: 14px;
         padding: 10px;
     }
+
+    /* Contact */
+    .email-box {
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+    }
 }
