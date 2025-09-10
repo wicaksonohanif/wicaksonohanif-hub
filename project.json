@@ -1,0 +1,34 @@
+{
+    "projects": [
+        {
+        "image": "assets/project_thumbnail/img_seg_thumbnail.png",
+        "title": "🖼️ Image Segmentation Application Using Segment Anything Model (SAM)",
+        "url": "https://github.com/wicaksonohanif/image_segmentation_project"
+        },
+        {
+        "image": "assets/project_thumbnail/weather_classification_thumbnail.png",
+        "title": "💧 Weather Type Classification Using Multilayer Perceptron (MLP) Algorithm",
+        "url": "https://github.com/wicaksonohanif/weather_type_classification_project"
+        },
+        {
+        "image": "assets/project_thumbnail/subtitle_gen_thumbnail.png",
+        "title": "🎙️ English Subtitle Generator (Speech Recognition) using Whisper",
+        "url": "https://github.com/wicaksonohanif/speech_recognition_project"
+        },
+        {
+        "image": "assets/project_thumbnail/energy_prediction_thumbnail.png",
+        "title": "⚡ Analysis and Prediction of Energy Consumption in Buildings Using Ridge, Lasso, and Elastic Net Regression Algorithms",
+        "url": "https://github.com/wicaksonohanif/energy_consumption_prediction_project"
+        },
+        {
+        "image": "assets/project_thumbnail/crop_clustering_thumbnail.png",
+        "title": "🌾 Crop Yield Analysis and Clustering Dashboard using K-Means Algorithm",
+        "url": "https://github.com/wicaksonohanif/crop_yield_clustering_project"
+        },
+        {
+        "image": "assets/project_thumbnail/water_clustering_thumbnail.png",
+        "title": "💧 Water Clustering Using K-Means Algorithm | Sigma Water Technology by Chipmuks Sigma",
+        "url": "https://github.com/wicaksonohanif/water_clustering_project"
+        }
+    ]
+}
