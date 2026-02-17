@@ -1,6 +1,11 @@
 {
     "projects": [
         {
+        "image": "assets/project_thumbnail/tire_class_thumbnail.png",
+        "title": "🚘 Tire Condition Classification Using MobileNetV2 + CBAM Algorithm",
+        "url": "https://github.com/wicaksonohanif/tireNET_tire_condition_classification"
+        },
+        {
         "image": "assets/project_thumbnail/img_seg_thumbnail.png",
         "title": "🖼️ Image Segmentation Application Using Segment Anything Model (SAM)",
         "url": "https://github.com/wicaksonohanif/image_segmentation_project"
