@@ -1,6 +1,11 @@
 {
     "projects": [
         {
+        "image": "assets/project_thumbnail/deepfake_classification_thumbnail.png",
+        "title": "🎙️ Deepfake Voice Call Detection and Robustness Analysis Using RawNet3",
+        "url": "https://github.com/wicaksonohanif/rawnet3_VoIP_deepfake_detection"
+        },
+        {
         "image": "assets/project_thumbnail/tire_class_thumbnail.png",
         "title": "🚘 Tire Condition Classification Using MobileNetV2 + CBAM Algorithm",
         "url": "https://github.com/wicaksonohanif/tireNET_tire_condition_classification"
